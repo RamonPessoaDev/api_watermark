@@ -6,7 +6,7 @@ Esta é uma API desenvolvida para aplicar d'água em imagens
 
 ### Pré-requisitos - Prerequisites
 
-- .NET 6.0 ou superior
+- .NET 5.0 ou superior
 - Um editor de código de sua escolha (Visual Studio, Visual Studio Code, etc.)
 
 <br>
